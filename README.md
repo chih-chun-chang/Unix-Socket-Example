@@ -24,11 +24,17 @@ Unix Socket Programming
 * example:
 
 `./client`
+
 `What’ s your requirement? 1.DNS 2.QUERY 3.QUIT : 1`
+
 `Input URL address : www.google.com`
+
 `address get from domain name : 173.194.72.106`
+
 `What’ s your requirement? 1.DNS 2.QUERY 3.QUIT : 2`
+
 `Input student ID : 99123`
+
 `Email get from server : …`
 
 * reference:
