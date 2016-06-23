@@ -13,16 +13,15 @@ Unix Socket Programming
 
 `gcc server.c -o server`
 
-gcc client.c -o client
+`gcc client.c -o client`
 
 * execution:
 
-<./server> on a window
+`./server` on a window
 
-<./client> on the other window
+`./client` on the other window
 
 * reference:
 
 http://www.tutorialspoint.com/unix_sockets/socket_server_example.htm
-
 http://www.tutorialspoint.com/unix_sockets/socket_client_example.htm
