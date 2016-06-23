@@ -11,7 +11,7 @@ Unix Socket Programming
 
 * compilation:
 
-ˋgcc server.c -o serverˋ
+`gcc server.c -o server`
 
 gcc client.c -o client
 
