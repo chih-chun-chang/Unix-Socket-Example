@@ -37,7 +37,3 @@ Unix Socket Programming
 
 `Email get from server : …`
 
-* reference:
-
-http://www.tutorialspoint.com/unix_sockets/socket_server_example.htm
-http://www.tutorialspoint.com/unix_sockets/socket_client_example.htm
